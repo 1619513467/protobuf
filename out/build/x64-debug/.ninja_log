@@ -1,0 +1,23 @@
+# ninja log v5
+3	356	7049038249290956	src/RcfClient/RcfClient_autogen/timestamp	d161fdcf46f2eaa5
+3	356	7049038249290956	src/RcfClient/RcfClient_autogen/mocs_compilation.cpp	d161fdcf46f2eaa5
+362	3317	7049038279561460	src/RcfClient/CMakeFiles/RcfClient.dir/main.cpp.obj	7fd70534e69e2e25
+5	394	7049038330637559	src/RcfServer/RcfServer_autogen/timestamp	c512867fc57eb03e
+356	3324	7049038279531466	src/RcfClient/CMakeFiles/RcfClient.dir/RcfClient_autogen/mocs_compilation.cpp.obj	e69a53cedeb603ec
+368	3679	7049038283221541	src/RcfClient/CMakeFiles/RcfClient.dir/rcfclient.cpp.obj	cc2228aa63a18bcb
+405	3148	7049038358995059	src/RcfServer/CMakeFiles/RcfServer.dir/rcfserver.cpp.obj	a2c3e5f1f9a17f12
+3	356	7049038249290956	E:/Project_C++/peotobuf/out/build/x64-debug/src/RcfClient/RcfClient_autogen/timestamp	d161fdcf46f2eaa5
+3	356	7049038249290956	E:/Project_C++/peotobuf/out/build/x64-debug/src/RcfClient/RcfClient_autogen/mocs_compilation.cpp	d161fdcf46f2eaa5
+374	3325	7049038279571456	src/RcfClient/CMakeFiles/RcfClient.dir/senddatathread.cpp.obj	f7da0729ef86870c
+3679	4584	7049038292051574	src/RcfClient/RcfClient.exe	e38775464967e49a
+5	394	7049038330637559	src/RcfServer/RcfServer_autogen/mocs_compilation.cpp	c512867fc57eb03e
+5	394	7049038330637559	E:/Project_C++/peotobuf/out/build/x64-debug/src/RcfServer/RcfServer_autogen/timestamp	c512867fc57eb03e
+5	394	7049038330637559	E:/Project_C++/peotobuf/out/build/x64-debug/src/RcfServer/RcfServer_autogen/mocs_compilation.cpp	c512867fc57eb03e
+395	2693	7049038354444495	src/RcfServer/CMakeFiles/RcfServer.dir/RcfServer_autogen/mocs_compilation.cpp.obj	a82c55a910edde2b
+401	2889	7049038356414496	src/RcfServer/CMakeFiles/RcfServer.dir/main.cpp.obj	c5f18a70cb205ce8
+4	242	7049038712457412	src/RcfServer/RcfServer_autogen/timestamp	c512867fc57eb03e
+4	242	7049038712457412	src/RcfServer/RcfServer_autogen/mocs_compilation.cpp	c512867fc57eb03e
+4	242	7049038712457412	E:/Project_C++/peotobuf/out/build/x64-debug/src/RcfServer/RcfServer_autogen/timestamp	c512867fc57eb03e
+4	242	7049038712457412	E:/Project_C++/peotobuf/out/build/x64-debug/src/RcfServer/RcfServer_autogen/mocs_compilation.cpp	c512867fc57eb03e
+244	3196	7049038741917311	src/RcfServer/CMakeFiles/RcfServer.dir/rcfserver.cpp.obj	a2c3e5f1f9a17f12
+3197	3833	7049038748087986	src/RcfServer/RcfServer.exe	a90016932d4a07b7

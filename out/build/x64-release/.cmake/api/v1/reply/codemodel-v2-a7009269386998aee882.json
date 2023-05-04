@@ -1,0 +1,159 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src/RcfClient",
+					"jsonFile" : "directory-src.RcfClient-Release-067513c60854147d9879.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "src/RcfClient",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"build" : "src/RcfServer",
+					"jsonFile" : "directory-src.RcfServer-Release-65709c1ac28804fe2d33.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "src/RcfServer",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Protobuf_Project"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "RcfClient",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "RcfServer",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "RcfClient::@62acff895d30d5f61586",
+					"jsonFile" : "target-RcfClient-Release-99944246b21127814ca1.json",
+					"name" : "RcfClient",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "RcfClient_autogen::@62acff895d30d5f61586",
+					"jsonFile" : "target-RcfClient_autogen-Release-3f89c9066aa1e6a36fc1.json",
+					"name" : "RcfClient_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "RcfClient_autogen_timestamp_deps::@62acff895d30d5f61586",
+					"jsonFile" : "target-RcfClient_autogen_timestamp_deps-Release-262b1df7fb94fb897192.json",
+					"name" : "RcfClient_autogen_timestamp_deps",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "RcfServer::@7d3402e5855f2a2b684b",
+					"jsonFile" : "target-RcfServer-Release-1466013f01d292f60876.json",
+					"name" : "RcfServer",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "RcfServer_autogen::@7d3402e5855f2a2b684b",
+					"jsonFile" : "target-RcfServer_autogen-Release-e61200093f47b7a45042.json",
+					"name" : "RcfServer_autogen",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "RcfServer_autogen_timestamp_deps::@7d3402e5855f2a2b684b",
+					"jsonFile" : "target-RcfServer_autogen_timestamp_deps-Release-3de05932e1975ae93bd5.json",
+					"name" : "RcfServer_autogen_timestamp_deps",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Project_CMake/Protobuf/out/build/x64-release",
+		"source" : "E:/Project_CMake/Protobuf"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

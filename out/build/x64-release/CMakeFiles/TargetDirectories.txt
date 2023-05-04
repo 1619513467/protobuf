@@ -1,0 +1,12 @@
+E:/Project_CMake/Protobuf/out/build/x64-release/CMakeFiles/edit_cache.dir
+E:/Project_CMake/Protobuf/out/build/x64-release/CMakeFiles/rebuild_cache.dir
+E:/Project_CMake/Protobuf/out/build/x64-release/src/RcfClient/CMakeFiles/RcfClient.dir
+E:/Project_CMake/Protobuf/out/build/x64-release/src/RcfClient/CMakeFiles/edit_cache.dir
+E:/Project_CMake/Protobuf/out/build/x64-release/src/RcfClient/CMakeFiles/rebuild_cache.dir
+E:/Project_CMake/Protobuf/out/build/x64-release/src/RcfClient/CMakeFiles/RcfClient_autogen_timestamp_deps.dir
+E:/Project_CMake/Protobuf/out/build/x64-release/src/RcfClient/CMakeFiles/RcfClient_autogen.dir
+E:/Project_CMake/Protobuf/out/build/x64-release/src/RcfServer/CMakeFiles/RcfServer.dir
+E:/Project_CMake/Protobuf/out/build/x64-release/src/RcfServer/CMakeFiles/edit_cache.dir
+E:/Project_CMake/Protobuf/out/build/x64-release/src/RcfServer/CMakeFiles/rebuild_cache.dir
+E:/Project_CMake/Protobuf/out/build/x64-release/src/RcfServer/CMakeFiles/RcfServer_autogen_timestamp_deps.dir
+E:/Project_CMake/Protobuf/out/build/x64-release/src/RcfServer/CMakeFiles/RcfServer_autogen.dir

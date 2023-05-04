@@ -1,0 +1,10 @@
+# ninja log v5
+4	390	7048927331727354	src/RcfClient/RcfClient_autogen/timestamp	dfb0c00bd4ad2d70
+4	390	7048927331727354	src/RcfClient/RcfClient_autogen/mocs_compilation.cpp	dfb0c00bd4ad2d70
+4	390	7048927331727354	E:/Project_CMake/Protobuf/out/build/x64-release/src/RcfClient/RcfClient_autogen/timestamp	dfb0c00bd4ad2d70
+4	390	7048927331727354	E:/Project_CMake/Protobuf/out/build/x64-release/src/RcfClient/RcfClient_autogen/mocs_compilation.cpp	dfb0c00bd4ad2d70
+410	2539	7048927354040748	src/RcfClient/CMakeFiles/RcfClient.dir/senddatathread.cpp.obj	18f5641c57fe8e8d
+397	2587	7048927354551447	src/RcfClient/CMakeFiles/RcfClient.dir/main.cpp.obj	efe6c99a0724d556
+391	2637	7048927355054745	src/RcfClient/CMakeFiles/RcfClient.dir/RcfClient_autogen/mocs_compilation.cpp.obj	ba0234ab1ffb3ed1
+417	2883	7048927357478133	src/RcfClient/CMakeFiles/RcfClient.dir/msg_business.pb.cc.obj	c1413ca8b3c2ecb
+403	3012	7048927358778348	src/RcfClient/CMakeFiles/RcfClient.dir/rcfclient.cpp.obj	fae3d3f48fd5c697
